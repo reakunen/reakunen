@@ -1,2 +1,1 @@
-computer science enthusiast, web development lover. 
-
+computer science enthusiast! 

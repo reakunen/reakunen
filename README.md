@@ -1,6 +1,6 @@
 ### Hey there! 👋
 <img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=reakunen.reakunen">
-<img width="35%" align="right" alt="Github" src="https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952dbyjss40vufnfpd8iyry69j87pfwnpqv5ba9046c&ep=v1_gifs_search&rid=200w.gif&ct=g" />
+<img width="35%" height="65%" align="right" alt="Github" src="https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952dbyjss40vufnfpd8iyry69j87pfwnpqv5ba9046c&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
 I'm a computer science student who is passionate about piano and beekeeping. 
 

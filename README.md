@@ -1,2 +1,2 @@
-A computer science student who is passionate about classical piano and beekeeping. 
+full time pianist and beekeper. 
 Reach me by: [Linkedin](https://www.linkedin.com/in/brianemai/) [Gmail](mailto:brianm17055@gmail.com)
